@@ -1,0 +1,11 @@
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.deps.json
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.AssemblyInfoInputs.cache
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.AssemblyInfo.cs
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\refint\LINQSamples.DataLayer.dll
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\ref\LINQSamples.DataLayer.dll
