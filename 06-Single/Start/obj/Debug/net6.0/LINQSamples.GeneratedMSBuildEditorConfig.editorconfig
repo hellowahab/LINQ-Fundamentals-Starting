@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LINQSamples
-build_property.ProjectDir = c:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\05-Where\Start\
+build_property.ProjectDir = c:\wf\github\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\06-Single\Start\
