@@ -4,7 +4,7 @@
 SamplesViewModel vm = new();
 
 // Call Sample Method
-var result = vm.AllQuery();
+var result = vm.ContainsComparerMethod();
 
 // Display Results
 vm.Display(result);
